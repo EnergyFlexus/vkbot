@@ -1,0 +1,7 @@
+.vscode
+bin
+obj
+config.json
+*.http
+publish
+Migrations
